@@ -1,4 +1,4 @@
 # Capstone-project-Regression
 Yes Bank Stock closing price prediction ML Submission.ipynb
-# Capstone-project-Regression
+# Capstone-project-Classification
 Credit_Card_Default_Prediction
